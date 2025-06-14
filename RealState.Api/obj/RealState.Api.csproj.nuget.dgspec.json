@@ -1,0 +1,349 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/usuario/RiderProjects/RealState/RealState.Api/RealState.Api.csproj": {}
+  },
+  "projects": {
+    "/home/usuario/RiderProjects/RealState/RealState.Api/RealState.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/usuario/RiderProjects/RealState/RealState.Api/RealState.Api.csproj",
+        "projectName": "RealState.Api",
+        "projectPath": "/home/usuario/RiderProjects/RealState/RealState.Api/RealState.Api.csproj",
+        "packagesPath": "/home/usuario/.nuget/packages/",
+        "outputPath": "/home/usuario/RiderProjects/RealState/RealState.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/usuario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/usuario/RiderProjects/RealState/RealState.Application/RealState.Application.csproj": {
+                "projectPath": "/home/usuario/RiderProjects/RealState/RealState.Application/RealState.Application.csproj"
+              },
+              "/home/usuario/RiderProjects/RealState/RealState.DTO/RealState.DTO.csproj": {
+                "projectPath": "/home/usuario/RiderProjects/RealState/RealState.DTO/RealState.DTO.csproj"
+              },
+              "/home/usuario/RiderProjects/RealState/RealState.Infrastructure/RealState.Infrastructure.csproj": {
+                "projectPath": "/home/usuario/RiderProjects/RealState/RealState.Infrastructure/RealState.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/usuario/RiderProjects/RealState/RealState.Application/RealState.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/usuario/RiderProjects/RealState/RealState.Application/RealState.Application.csproj",
+        "projectName": "RealState.Application",
+        "projectPath": "/home/usuario/RiderProjects/RealState/RealState.Application/RealState.Application.csproj",
+        "packagesPath": "/home/usuario/.nuget/packages/",
+        "outputPath": "/home/usuario/RiderProjects/RealState/RealState.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/usuario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/usuario/RiderProjects/RealState/RealState.DTO/RealState.DTO.csproj": {
+                "projectPath": "/home/usuario/RiderProjects/RealState/RealState.DTO/RealState.DTO.csproj"
+              },
+              "/home/usuario/RiderProjects/RealState/RealState.Domain/RealState.Domain.csproj": {
+                "projectPath": "/home/usuario/RiderProjects/RealState/RealState.Domain/RealState.Domain.csproj"
+              },
+              "/home/usuario/RiderProjects/RealState/RealState.Infrastructure/RealState.Infrastructure.csproj": {
+                "projectPath": "/home/usuario/RiderProjects/RealState/RealState.Infrastructure/RealState.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/usuario/RiderProjects/RealState/RealState.DTO/RealState.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/usuario/RiderProjects/RealState/RealState.DTO/RealState.DTO.csproj",
+        "projectName": "RealState.DTO",
+        "projectPath": "/home/usuario/RiderProjects/RealState/RealState.DTO/RealState.DTO.csproj",
+        "packagesPath": "/home/usuario/.nuget/packages/",
+        "outputPath": "/home/usuario/RiderProjects/RealState/RealState.DTO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/usuario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/usuario/RiderProjects/RealState/RealState.Domain/RealState.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/usuario/RiderProjects/RealState/RealState.Domain/RealState.Domain.csproj",
+        "projectName": "RealState.Domain",
+        "projectPath": "/home/usuario/RiderProjects/RealState/RealState.Domain/RealState.Domain.csproj",
+        "packagesPath": "/home/usuario/.nuget/packages/",
+        "outputPath": "/home/usuario/RiderProjects/RealState/RealState.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/usuario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/usuario/RiderProjects/RealState/RealState.Infrastructure/RealState.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/usuario/RiderProjects/RealState/RealState.Infrastructure/RealState.Infrastructure.csproj",
+        "projectName": "RealState.Infrastructure",
+        "projectPath": "/home/usuario/RiderProjects/RealState/RealState.Infrastructure/RealState.Infrastructure.csproj",
+        "packagesPath": "/home/usuario/.nuget/packages/",
+        "outputPath": "/home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/usuario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/usuario/RiderProjects/RealState/RealState.Domain/RealState.Domain.csproj": {
+                "projectPath": "/home/usuario/RiderProjects/RealState/RealState.Domain/RealState.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

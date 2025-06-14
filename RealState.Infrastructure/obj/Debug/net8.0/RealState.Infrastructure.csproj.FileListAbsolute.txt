@@ -1,0 +1,15 @@
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/bin/Debug/net8.0/RealState.Infrastructure.deps.json
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/bin/Debug/net8.0/RealState.Infrastructure.dll
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/bin/Debug/net8.0/RealState.Infrastructure.pdb
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/bin/Debug/net8.0/RealState.Domain.dll
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/bin/Debug/net8.0/RealState.Domain.pdb
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/RealState.Infrastructure.csproj.AssemblyReference.cache
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/RealState.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/RealState.Infrastructure.AssemblyInfoInputs.cache
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/RealState.Infrastructure.AssemblyInfo.cs
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/RealState.Infrastructure.csproj.CoreCompileInputs.cache
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/RealState.Infrastructure.csproj.CopyComplete
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/RealState.Infrastructure.dll
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/refint/RealState.Infrastructure.dll
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/RealState.Infrastructure.pdb
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/ref/RealState.Infrastructure.dll

@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  realstate.api:
+    build:
+      context: .
+      dockerfile: RealState.Api/Dockerfile
+    ports:
+      - "5000:80"
+    environment:
+      - ConnectionStrings__MongoDb=mongodb+srv://zaid_2003:zaid_1907@cluster1.03jozqw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
+      - MongoSettings__Database=Millions
+
+
+volumes:
+  mongo_data:
