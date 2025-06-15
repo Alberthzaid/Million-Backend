@@ -1,0 +1,13 @@
+/home/usuario/RiderProjects/RealState/RealState.Domain/bin/Release/net8.0/RealState.Domain.deps.json
+/home/usuario/RiderProjects/RealState/RealState.Domain/bin/Release/net8.0/RealState.Domain.dll
+/home/usuario/RiderProjects/RealState/RealState.Domain/bin/Release/net8.0/RealState.Domain.pdb
+/home/usuario/RiderProjects/RealState/RealState.Domain/obj/Release/net8.0/RealState.Domain.csproj.AssemblyReference.cache
+/home/usuario/RiderProjects/RealState/RealState.Domain/obj/Release/net8.0/RealState.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/RiderProjects/RealState/RealState.Domain/obj/Release/net8.0/RealState.Domain.AssemblyInfoInputs.cache
+/home/usuario/RiderProjects/RealState/RealState.Domain/obj/Release/net8.0/RealState.Domain.AssemblyInfo.cs
+/home/usuario/RiderProjects/RealState/RealState.Domain/obj/Release/net8.0/RealState.Domain.csproj.CoreCompileInputs.cache
+/home/usuario/RiderProjects/RealState/RealState.Domain/obj/Release/net8.0/RealState.Domain.sourcelink.json
+/home/usuario/RiderProjects/RealState/RealState.Domain/obj/Release/net8.0/RealState.Domain.dll
+/home/usuario/RiderProjects/RealState/RealState.Domain/obj/Release/net8.0/refint/RealState.Domain.dll
+/home/usuario/RiderProjects/RealState/RealState.Domain/obj/Release/net8.0/RealState.Domain.pdb
+/home/usuario/RiderProjects/RealState/RealState.Domain/obj/Release/net8.0/ref/RealState.Domain.dll

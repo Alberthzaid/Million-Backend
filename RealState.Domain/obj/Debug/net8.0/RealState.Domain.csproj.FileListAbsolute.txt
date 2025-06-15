@@ -10,3 +10,4 @@
 /home/usuario/RiderProjects/RealState/RealState.Domain/obj/Debug/net8.0/refint/RealState.Domain.dll
 /home/usuario/RiderProjects/RealState/RealState.Domain/obj/Debug/net8.0/RealState.Domain.pdb
 /home/usuario/RiderProjects/RealState/RealState.Domain/obj/Debug/net8.0/ref/RealState.Domain.dll
+/home/usuario/RiderProjects/RealState/RealState.Domain/obj/Debug/net8.0/RealState.Domain.sourcelink.json

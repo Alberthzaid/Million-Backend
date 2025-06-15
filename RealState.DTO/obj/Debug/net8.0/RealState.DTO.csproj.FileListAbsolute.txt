@@ -9,3 +9,4 @@
 /home/usuario/RiderProjects/RealState/RealState.DTO/obj/Debug/net8.0/refint/RealState.DTO.dll
 /home/usuario/RiderProjects/RealState/RealState.DTO/obj/Debug/net8.0/RealState.DTO.pdb
 /home/usuario/RiderProjects/RealState/RealState.DTO/obj/Debug/net8.0/ref/RealState.DTO.dll
+/home/usuario/RiderProjects/RealState/RealState.DTO/obj/Debug/net8.0/RealState.DTO.sourcelink.json

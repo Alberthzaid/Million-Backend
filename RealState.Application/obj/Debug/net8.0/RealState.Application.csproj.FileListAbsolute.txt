@@ -17,3 +17,4 @@
 /home/usuario/RiderProjects/RealState/RealState.Application/obj/Debug/net8.0/refint/RealState.Application.dll
 /home/usuario/RiderProjects/RealState/RealState.Application/obj/Debug/net8.0/RealState.Application.pdb
 /home/usuario/RiderProjects/RealState/RealState.Application/obj/Debug/net8.0/ref/RealState.Application.dll
+/home/usuario/RiderProjects/RealState/RealState.Application/obj/Debug/net8.0/RealState.Application.sourcelink.json

@@ -50,3 +50,4 @@
 /home/usuario/RiderProjects/RealState/RealState.Api/obj/Debug/net8.0/RealState.Api.pdb
 /home/usuario/RiderProjects/RealState/RealState.Api/obj/Debug/net8.0/RealState.Api.genruntimeconfig.cache
 /home/usuario/RiderProjects/RealState/RealState.Api/obj/Debug/net8.0/ref/RealState.Api.dll
+/home/usuario/RiderProjects/RealState/RealState.Api/obj/Debug/net8.0/RealState.Api.sourcelink.json

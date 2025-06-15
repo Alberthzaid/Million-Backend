@@ -13,3 +13,4 @@
 /home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/refint/RealState.Infrastructure.dll
 /home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/RealState.Infrastructure.pdb
 /home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/ref/RealState.Infrastructure.dll
+/home/usuario/RiderProjects/RealState/RealState.Infrastructure/obj/Debug/net8.0/RealState.Infrastructure.sourcelink.json
