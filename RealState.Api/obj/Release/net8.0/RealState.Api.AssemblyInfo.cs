@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealState.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d977947781d0a512c2a8c310651ff574b1ef773")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7224633f4728eb658e5ec5f0222e0394c99a7279")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealState.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealState.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
